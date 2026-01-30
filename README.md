@@ -106,10 +106,9 @@ Python  │  Pandas  │  XGBoost  │  LSTM/Keras  │  Scikit-learn  │  Stat
 
 ---
 
-*Full case study with detailed methodology available in* `CASE_STUDY_Sales_Marketing_Analytics.md`
+*Full case study with detailed methodology available in* `Full-Report.md`
 
 ---
 
-**Project Repository:** [Link to GitHub]
-**Author:** [Your Name]
-**Contact:** [Your Email]
+**Project Repository:** [[Link to GitHub](https://github.com/MylieMudaliyar/Sales-Marketing-Analytics-Data-Driven-Customer-Intelligence)]
+**Contact:** [myliemudaliyar@gmail.com]
