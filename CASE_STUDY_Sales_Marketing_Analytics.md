@@ -10,17 +10,39 @@
 
 ---
 
-## Executive Summary
+---
 
-**The Challenge:** A UK-based e-commerce retailer with 541,909 transactions and 3,950 customers was struggling with declining retention rates, inefficient marketing spend, and an inability to predict customer behavior.
+## The Challenge
 
-**The Solution:** Developed a comprehensive 9-module analytics framework that transformed raw transaction data into actionable business intelligence.
+A UK e-commerce retailer with **£8.9M annual revenue** and **3,950 customers** faced critical business challenges:
+- **93% customer attrition** within 12 months
+- **Untargeted marketing** wasting budget on non-responsive customers
+- **No predictive capabilities** for churn, sales, or customer value
+- **Inefficient promotional strategy** with unclear ROI
 
-**The Impact:**
-- **2x improvement** in marketing campaign targeting efficiency
-- **$40,797 incremental revenue** identified through optimized offer strategies
-- **87% accuracy** in predicting customer lifetime value
-- **12-month sales forecasting** capability with LSTM neural networks
+---
+
+## The Solution
+
+Developed a **9-module analytics framework** leveraging machine learning and statistical modeling:
+
+```
+UNDERSTAND              PREDICT                 OPTIMIZE
+───────────             ───────────             ───────────
+✓ Revenue Analysis      ✓ Churn Prediction      ✓ Market Response
+✓ Cohort Retention      ✓ LTV Prediction        ✓ Uplift Modeling
+✓ RFM Segmentation      ✓ Sales Forecasting     ✓ A/B Testing
+                        ✓ Next Purchase Day
+```
+
+---
+
+
+## Technology Stack
+
+```
+Python  │  Pandas  │  XGBoost  │  LSTM/Keras  │  Scikit-learn  │  Statsmodels
+```
 
 ---
 
@@ -1010,6 +1032,6 @@ Through systematic application of data science methodologies, we transformed 541
 *This case study was created as part of a comprehensive sales and marketing analytics project demonstrating end-to-end data science capabilities.*
 
 **Contact:** [myliemudaliyar@gmail.com]
-[[**Portfolio:**](https://mylienow.vercel.app/)]
-[[**LinkedIn:**](https://www.linkedin.com/in/mylie-mudaliyar/)]
-[[**GitHub:**](https://github.com/MylieMudaliyar)]
+[[**Portfolio**](https://mylienow.vercel.app/)]
+[[**LinkedIn**](https://www.linkedin.com/in/mylie-mudaliyar/)]
+[[**GitHub**](https://github.com/MylieMudaliyar)]
