@@ -1010,6 +1010,6 @@ Through systematic application of data science methodologies, we transformed 541
 *This case study was created as part of a comprehensive sales and marketing analytics project demonstrating end-to-end data science capabilities.*
 
 **Contact:** [myliemudaliyar@gmail.com]
-**Portfolio:** [[Your Portfolio Link](https://mylienow.vercel.app/)]
-**LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/mylie-mudaliyar/)]
-**GitHub:** [[Your GitHub Repository](https://github.com/MylieMudaliyar)]
+[[**Portfolio:**](https://mylienow.vercel.app/)]
+[[**LinkedIn:**](https://www.linkedin.com/in/mylie-mudaliyar/)]
+[[**GitHub:**](https://github.com/MylieMudaliyar)]
